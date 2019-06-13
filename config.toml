@@ -6,7 +6,7 @@ preserveTaxonomyNames = "true"
 
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "HUGO MyPortfolio Theme"
+title = "barefoot ROB - reach for the dreams of your life"
 theme = "hugo-myportfolio-theme"
 
 
@@ -25,8 +25,8 @@ theme = "hugo-myportfolio-theme"
 
     [params.meta]
         # To provide some metadata for search engines (OPTIONAL)
-        author = "<AUTHOR>"
-        description = "<DESCRIPTION>"
+        author = "Rob Nugen"
+        description = "honoring your decision to be here"
 
         # The path must be relative to the static folder (MANDATORY)
         favicon = "favicon.ico"
@@ -45,7 +45,7 @@ theme = "hugo-myportfolio-theme"
     [params.navigation]
 
         # Brand (OPTIONAL - but required if want HOME button)
-        brand = "YOUR BRAND"
+        brand = "barefoot ROB"
 
         # NAVIGATION MENU ENTRIES (OPTIONAL)
         # Add an entry for each section to add in the navigation menu.
@@ -74,6 +74,7 @@ theme = "hugo-myportfolio-theme"
             skills   = "SKILLS"
             projects = [
                 { section = "pro", label = "PROFESSIONAL" },
+                { section = "creation", label = "CREATIVE" },
                 { section = "perso", label = "PERSONAL" }
             ]
             contact  = "CONTACT"
@@ -84,7 +85,7 @@ theme = "hugo-myportfolio-theme"
     [params.projects]
         # Values in "categories" must be the same as in navigation menu "projects".
         # (& must correspond to the section directories)
-        categories = [ "pro", "perso" ]
+        categories = [ "pro", "perso", "creation" ]
 
         # Post orders:
         # - list of posts:
