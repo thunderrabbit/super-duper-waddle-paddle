@@ -1,5 +1,5 @@
 +++
-title = "Client Z"
+title = "Client A-Z"
 subtitle = "Freelance"
 startDate = "2016-08-01"
 endDate = "2016-12-01"
