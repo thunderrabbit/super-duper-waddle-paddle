@@ -4,7 +4,7 @@
 # Parameters used by HUGO to configure the site's global settings.
 preserveTaxonomyNames = "true"
 
-baseurl = "https://laughing-jepsen-06fd24.netlify.com/"
+baseurl = "https://zealous-varahamihira-b6564c.netlify.com/"
 languageCode = "en-us"
 title = "barefoot ROB - reach for the dreams of your life"
 theme = "hugo-myportfolio-theme"
