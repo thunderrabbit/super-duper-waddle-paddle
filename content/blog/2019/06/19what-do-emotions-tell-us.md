@@ -1,6 +1,6 @@
 ---
 title: "What do emotions tell us?"
-tags: [ "git", "journal" ]
+tags: [ "emotions", "joy", "fear", "sadness", "anger" ]
 author: Rob Nugen
 date: 2019-06-19T06:22:49+09:00
 ---
