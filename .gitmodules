@@ -1,3 +1,3 @@
 [submodule "themes/hugo-myportfolio-theme"]
 	path = themes/hugo-myportfolio-theme
-	url = ../hugo-myportfolio-theme.git
+	url = git@bitbucket.org:thunderrabbit/hugo-myportfolio-theme.git
