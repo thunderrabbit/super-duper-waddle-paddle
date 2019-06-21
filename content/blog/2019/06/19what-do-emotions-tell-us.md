@@ -1,31 +1,37 @@
 ---
-title: "What do emotions tell us?"
-tags: [ "emotions", "joy", "fear", "sadness", "anger" ]
+title: What do emotions tell us?
+tags:
+- emotions
+- joy
+- fear
+- sadness
+- anger
 author: Rob Nugen
-date: 2019-06-19T06:22:49+09:00
----
+date: 2019-06-18T21:22:49.000+00:00
 
+---
 ##### 06:22 Wednesday 19 June 2019 JST
 
 Sticking with the basics, we have joy and fear.
 
+## Joy
 
-## Joy ##
 is how I feel
 when I have what I want, or I don't want what I don't have.  I am
-aligned with what *is*, and have no need or desire to change it.
+aligned with what _is_, and have no need or desire to change it.
 
-## Fear ##
+## Fear
+
 is the emotion which says I don't have enough information.  This is
 usually about an unknown future.  I come to a proverbial fork in the
 road and could simply choose arbitrarily, but if there is a part of me
-that wants to choose the "*right*" option, I may feel fear about
-choosing the "*wrong*" option.  This could paralyze me until I cannot
+that wants to choose the "_right_" option, I may feel fear about
+choosing the "_wrong_" option.  This could paralyze me until I cannot
 choose without more information about what each option entails.
 
 Next, we have sadness.
 
-## Sadness ##
+## Sadness
 
 is how I feel when I recognize I have lost(*) something.  I had it,
 and now I don't have it.  I feel sad.  The message here is simply to
@@ -35,7 +41,7 @@ the person who was with us is no longer here (in the physical sense).
 We take the chance to experience the loss in its fullness, allowing
 acknowledgement of the new situation so we can move on.
 
-## Anger ##
+## Anger
 
 Anger is a slightly different emotion.  There are a few different
 emotions that we lump together under one label.  Generally speaking,
@@ -43,8 +49,8 @@ anger is an emotion that comes up when boundaries have been crossed.
 So-called righteous anger could be when personal space or personal
 property has been encroached or taken.
 
-
+In general, if emotions are held in the body, they can cause problems, so it's best to express emotions as soon as possible so our emotional bodies run smoothly.
 
 (*)
-Loss is something of a false belief in that I never *had* it in the
+Loss is something of a false belief in that I never _had_ it in the
 first place, but this line of inquiry goes beyond the basics outlined here.
